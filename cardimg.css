@@ -1,0 +1,68 @@
+.card1img {
+    background-image: url(https://learnodo-newtonic.com/wp-content/uploads/2020/03/Virat-Kolhi-with-the-2011-World-Cup-Trophy.jpg.webp);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+    
+}
+.card2img {
+    background-image: url(https://learnodo-newtonic.com/wp-content/uploads/2020/03/Virat-Kohli-in-IPL-2016.jpg.webp);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+}
+.card3img {
+    background-image: url(https://learnodo-newtonic.com/wp-content/uploads/2020/03/Virat-Kohli-with-the-Man-of-the-Tournament-award-in-the-2014-T20-World-Cup.jpg.webp);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+}
+.card4img {
+    background-image: url(images/Virat_Kohli_kissing_Test_trophy.jpg.jpeg);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+    
+}
+.card5img {
+    background-image: url(images/award.jfif);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+}
+.card6img {
+    background-image: url(images/kohli.jfif);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    left: 19px;
+    margin-top: 20px;
+}

@@ -1,0 +1,25 @@
+
+.card6:hover{
+    background-color: #00B359;
+    box-shadow:2px 2px 20px #222049;
+  }
+  .card5:hover{
+    box-shadow:2px 2px 20px #363197;
+    background-color: #39809c;
+  }
+  .card4:hover{
+    background-color: #FFBB33;
+    box-shadow:2px 2px 20px #222049;
+  }
+  .card3:hover{
+    background-color: #00B359;
+    box-shadow:2px 2px 20px #222049;
+  }
+  .card2:hover{
+    box-shadow:2px 2px 20px #363197;
+    background-color: #39809c;
+  }
+  .card1:hover{
+    background-color: #FFBB33;
+    box-shadow:2px 2px 20px #222049;
+  }
